@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+platform
+multiprocessing
+threading
+streamlit_option_menu
+requests
+streamlit_lottie
+time
+random
+sys
+os
