@@ -53,6 +53,9 @@
 import streamlit as st
 import random
 
+if "random_number" not in st.session_state:
+    st.session_state.random_number = 0
+
 # Define a function to generate random numbers
 def generate_random_numbers():
     while True:
