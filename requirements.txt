@@ -2,7 +2,6 @@ streamlit
 pandas
 numpy
 multiprocessing
-threading
 streamlit_option_menu
 requests
 streamlit_lottie
