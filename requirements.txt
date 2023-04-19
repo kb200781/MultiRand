@@ -1,7 +1,6 @@
 streamlit
 pandas
 numpy
-platform
 multiprocessing
 threading
 streamlit_option_menu
