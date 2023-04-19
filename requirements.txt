@@ -1,7 +1,6 @@
 streamlit
 pandas
 numpy
-threading
 streamlit_option_menu
 requests
 streamlit_lottie
