@@ -4,5 +4,3 @@ numpy
 streamlit_option_menu
 requests
 streamlit_lottie
-sys
-os
