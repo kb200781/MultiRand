@@ -36,6 +36,13 @@ t4 = threading.Thread(target=task, args=(0,20,12,40))
 t5 = threading.Thread(target=task, args=(-40,40,16,50))
 t6 = threading.Thread(target=task, args=(100,200,14,60))
 
+st.scriptrunner.add_script_run_ctx(t1)
+st.scriptrunner.add_script_run_ctx(t2)
+st.scriptrunner.add_script_run_ctx(t3)
+st.scriptrunner.add_script_run_ctx(t4)
+st.scriptrunner.add_script_run_ctx(t5)
+st.scriptrunner.add_script_run_ctx(t6)
+
 t1.start()
 t2.start()
 t3.start()
