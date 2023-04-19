@@ -4,6 +4,5 @@ numpy
 streamlit_option_menu
 requests
 streamlit_lottie
-random
 sys
 os
